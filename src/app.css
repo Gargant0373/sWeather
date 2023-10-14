@@ -1,0 +1,70 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.wform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.wdata {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 500px;
+    height: 300px;
+
+    border: 1px solid #ccc;
+}
+
+.grid {
+    margin-right: 5px;
+    margin-top: 5px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+
+.title {
+    margin-top: 25px;
+    margin-left: 5px;
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wicon {
+    width: 50px;
+    height: 50px;
+}
+
+.winput {
+    margin-top: 25px;
+    width: 250px;
+    height: 30px;
+
+    border: 1px solid #ccc;
+}
+
+.wbutton {
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+
+    border: 1px solid #ccc;
+}
+
+.wbutton:hover {
+    background-color: #ccc;
+    cursor: pointer;
+}
