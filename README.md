@@ -1,4 +1,4 @@
-# One night coding challenge.
+# sWeather
 
 ## Running
 In order to run the app you need an open-weather API key (https://openweathermap.org/)
